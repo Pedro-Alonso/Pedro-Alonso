@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Alonso</h1>
 <h3 align="center">
-  A Computer Science student and software development intern.
+  A Computer Science student and junior software developer
 </h3>
 
 <h3 align="left">Connect with me:</h3>
